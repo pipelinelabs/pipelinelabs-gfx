@@ -1,4 +1,7 @@
 pipelinelabs-gfx
 ================
 
-Everything artistic for pipelinelabs
+Everything artistic for pipelinelabs.
+Licensed under the [Creative Commons Attribution 3.0 Unported License][0]
+
+[0]: https://github.com/pipelinelabs/pipelinelabs-gfx/master/LICENSE
